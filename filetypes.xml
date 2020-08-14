@@ -12,8 +12,9 @@
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="h5" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping pattern="CircularLinkedList" type="Python" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="py1" type="Python" />
+      <mapping pattern="CircularLinkedList" type="Python" />
       <mapping pattern="Test.py" type="Python" />
     </extensionMap>
   </component>
